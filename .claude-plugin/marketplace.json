@@ -1,0 +1,12 @@
+{
+  "name": "tinia",
+  "description": "Tinia plugins for AI assistants",
+  "owner": { "name": "Tinia", "url": "https://tinia.com.br" },
+  "plugins": [
+    {
+      "name": "tinia",
+      "source": "./tinia",
+      "description": "Set up and run Tinia (WhatsApp sales platform with AI agents and a CRM) from your AI assistant."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tinia": {
+      "type": "http",
+      "url": "https://tinia.com.br/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tinia",
+  "interface": { "displayName": "Tinia" },
+  "plugins": [
+    {
+      "name": "tinia",
+      "source": { "source": "local", "path": "./tinia" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
