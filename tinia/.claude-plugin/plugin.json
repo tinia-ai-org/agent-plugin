@@ -1,7 +1,7 @@
 {
   "name": "tinia",
   "displayName": "Tinia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up and run Tinia, the WhatsApp sales platform with AI agents and a CRM, from your AI assistant: lead sources, automations, pipeline and sales numbers. Nothing goes live without your approval.",
   "author": { "name": "Tinia", "url": "https://tinia.com.br" },
   "license": "MIT",
