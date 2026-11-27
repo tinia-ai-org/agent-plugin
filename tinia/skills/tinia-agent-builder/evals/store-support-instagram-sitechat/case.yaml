@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: store-support-instagram-sitechat
+expected_outcome: |
+  A complete support agent (name, biography, tone, verbosity, language, labeled instructions, business context) for Instagram and website chat, built only from the given facts, with hand-off rules for refunds and complaints, channel-specific rules (no re-introduction on website chat, contact asked once with a reason), placeholders or questions for missing facts (refund deadline, hours), a bench scorecard and the list of steps to do in the Tinia app.
