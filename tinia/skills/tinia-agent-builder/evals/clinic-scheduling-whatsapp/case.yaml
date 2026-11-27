@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: clinic-scheduling-whatsapp
+expected_outcome: |
+  A scheduling agent for WhatsApp whose goal is booking the free evaluation, that never asks for the WhatsApp number, never diagnoses or promises results, never confirms a booking without the calendar, does not invent prices (asks for them or uses a placeholder), hands off on clinical questions, recommends turning on the calendar and buttons in the app, and includes a bench with scenarios like a health question and a time outside hours.

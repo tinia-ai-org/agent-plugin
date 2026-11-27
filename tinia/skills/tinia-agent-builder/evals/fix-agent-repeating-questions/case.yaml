@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fix-agent-repeating-questions
+expected_outcome: |
+  A diagnosis that names the causes (form-like fixed list of questions, contact collected like a form, vague style rule, pressure wording, re-introduction on website chat) and a rewritten instruction set with labeled one-topic instructions, qualification one item per reply skipping what is known, contact earned with a reason, a website chat rule, truth and hand-off rules, plus a before/after diff and a bench of the failing conversation showing the new reply does not ask for the bedroom count, neighborhood or budget again.
