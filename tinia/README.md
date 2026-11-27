@@ -1,6 +1,12 @@
 # Tinia
 
-Set up and run [Tinia](https://tinia.com.br), the WhatsApp sales platform with AI agents and a CRM, from Claude Code or Codex.
+Set up and run [Tinia](https://tinia.com.br), the WhatsApp sales platform with AI agents and a CRM, from your AI assistant.
+
+## Install
+
+```
+/plugin install tinia --marketplace tinia-ai-org/agent-plugin
+```
 
 ## What it includes
 
